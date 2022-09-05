@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rohtolos
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Python,C++ --> Artificial intelligence
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any programming job to improve my knowledge in this sector
 - 📫 How to reach me:You can reach me with my gmail (muhammed.osmanov.2001@gmail.com)
