@@ -17,11 +17,4 @@ I am interested in Flutter and Dart technologies and have experience with beside
 
 ## 🛠 Skills
 Dart
-
 Flutter framework 
-
-OOP (Solid principles), Data Structures, Functions
-
-State management, BLoC, Provider, Dio, Riverpod
-
-
