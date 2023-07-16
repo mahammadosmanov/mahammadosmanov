@@ -19,3 +19,9 @@ I am interested in Flutter and Dart technologies and have experience with beside
 Dart
 
 Flutter framework 
+
+CLean Architecture
+
+BLoC,Provider,Riverpod
+
+OOP,SOLID principles
