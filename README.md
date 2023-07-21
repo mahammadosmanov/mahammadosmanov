@@ -4,9 +4,9 @@
 I'm a self-learner Flutter developer...
 I graduated from BSc in Processes Automation Engineering in July 2022. Now I am studying at MSc in Computer Science.
 
-Currently, I am improving myself on Flutter and Dart stack for mobile application development. 
+Currently, I am improving myself on Flutter and Dart stack for mobile application development and working voluntarily in CryptoOwl app's development process.
 
-I'm now working to improve my knowledge of Object Oriented Programming, it's tenets, BLoC, Provider and etc. 
+I'm working on Object Oriented Programming, it's tenets, BLoC, Provider and etc. 
 
 I am interested in Flutter and Dart technologies and have experience with besides Python for software development and  JavaScript, HTML, CSS for web development .
 
