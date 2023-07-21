@@ -1,12 +1,12 @@
 
 # Hi, I'm Mahammad! 👋
 
-I'm a Flutter developer...
-I graduated from BSc in Processes Automation  Engineering in July 2022. Now I am studying at MSc in Computer Science.
+I'm a self-learner Flutter developer...
+I graduated from BSc in Processes Automation Engineering in July 2022. Now I am studying at MSc in Computer Science.
 
 Currently, I am improving myself on Flutter and Dart stack for mobile application development. 
 
-I'm now working to improve my knowledge of object-oriented programming, it's tenets, Block, provider and etc. 
+I'm now working to improve my knowledge of Object Oriented Programming, it's tenets, BLoC, Provider and etc. 
 
 I am interested in Flutter and Dart technologies and have experience with besides Python for software development and  JavaScript, HTML, CSS for web development .
 
