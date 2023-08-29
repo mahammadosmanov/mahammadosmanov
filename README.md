@@ -1,14 +1,14 @@
 
 # Hi, I'm Mahammad! 👋
 
-I'm a self-learner Flutter developer...
+I'm a Software Engineer
 I graduated from BSc in Processes Automation Engineering in July 2022. Now I am studying at MSc in Computer Science.
 
 Currently, I am improving myself on Flutter and Dart stack for mobile application development and working voluntarily in CryptoOwl app's development process.
 
-I'm working on Object Oriented Programming, it's tenets, BLoC, Provider and etc. 
+I'm working on more deep level of programming for example S.O.L.I.D principles, Multithreading and etc. 
 
-I am interested in Flutter and Dart technologies and have experience with besides Python for software development and  JavaScript, HTML, CSS for web development .
+I am interested in Flutter and Dart technologies and have experience with besides Python for Software development and  JavaScript, HTML, CSS for Web development .
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Rohtolos&show_icons=true&theme=radical)
 
