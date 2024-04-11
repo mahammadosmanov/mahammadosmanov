@@ -9,7 +9,7 @@ I worked on variety of technologies. Mainly focused on Dart and Flutter tech sta
 * 🌍  I'm based in Azerbaijan, Baku
 * ✉️  You can contact me at [m.osmanov01@outlook.com](mailto:m.osmanov01@outlook.com)
 * 🚀  I'm currently working on [Fiverr](http://www.fiverr.com/rohtolos?up_rollout=true)
-* 🧠  I'm learning Concurrency, Algorithmic complexity, Data structures and etc.
+* 🧠  I'm learning Kotlin.
 * 🤝  I'm open to collaborating on developing good designed and concepted software
 
 <a href="https://www.github.com/mahammadosmanov" target="_blank" rel="noreferrer"><img
