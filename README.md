@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Flutter Developer
 --------------------------------------
 
-I worked on variety of technologies. Mainly focused on Dart and Flutter tech stack. I am a developer who can approach problems analytically and find creative solutions will be an asset to any team. Writing clean, maintainable code and paying attention to the small details can have a significant impact on the overall quality of the app. Patient and have passion for learning more.
+I worked on variety of technologies. Mainly focused on Dart/Flutter tech stack. I am a developer who can approach problems analytically and find creative solutions will be an asset to any team. Writing clean, maintainable code and paying attention to the small details can have a significant impact on the overall quality of the app. Patient and have passion for learning more.
 
 * 🌍  I'm based in Azerbaijan, Baku
 * ✉️  You can contact me at [m.osmanov01@outlook.com](mailto:m.osmanov01@outlook.com)
