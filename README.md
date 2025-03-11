@@ -1,5 +1,5 @@
 # 💫 About Me:
-I worked on variety of technologies. Mainly focused on Dart/Flutter tech stack. I am a developer who can approach problems analytically and find creative solutions will be an asset to any team. Writing clean, maintainable code and paying attention to the small details can have a significant impact on the overall quality of the app. Patient and have passion for learning more.<br><br>🌍  I'm based in Azerbaijan, Baku<br>✉️  You can contact me at m.osmanov01@outlook.com<br>🚀  I'm currently working on few platforms as a Freelancer Software Engineer <br>🧠  I'm learning App Marketing now.<br>🤝  I'm open to collaborating on developing good designed and concepted software
+I worked on variety of technologies. Mainly focused on Dart/Flutter tech stack. I am a developer who can approach problems analytically and find creative solutions will be an asset to any team. Writing clean, maintainable code and paying attention to the small details can have a significant impact on the overall quality of the app. Patient and have passion for learning more.<br>✉️  You can contact me at m.osmanov01@outlook.com<br>🚀  I'm currently working on few platforms as a Freelancer Software Engineer <br>🧠  I'm learning App Marketing now.<br>🤝  I'm open to collaborating on developing good designed and concepted software
 
 
 ## 🌐 Socials:
