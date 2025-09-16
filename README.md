@@ -16,28 +16,12 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
 
-### ⚡ State Management  
-![BLoC](https://img.shields.io/badge/BLoC-25A162?logo=flutter&logoColor=white)  
-![Riverpod](https://img.shields.io/badge/Riverpod-0D47A1?logo=flutter&logoColor=white)  
-![Provider](https://img.shields.io/badge/Provider-4CAF50?logo=flutter&logoColor=white)  
-![GetX](https://img.shields.io/badge/GetX-FF9800?logo=flutter&logoColor=white)  
-
 ### 🔥 Tools & Platforms  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?logo=google-cloud&logoColor=white)  
-
-### 🏛 Architectures  
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2E7D32?logo=flutter&logoColor=white)  
-![MVVM](https://img.shields.io/badge/MVVM-1565C0?logo=flutter&logoColor=white)  
-![MVC](https://img.shields.io/badge/MVC-6A1B9A?logo=flutter&logoColor=white)  
-
-### 🌍 Languages  
-![Azerbaijani](https://img.shields.io/badge/Azerbaijani-00BFFF?logo=google-translate&logoColor=white)  
-![Turkish](https://img.shields.io/badge/Turkish-E30A17?logo=google-translate&logoColor=white)  
-![English](https://img.shields.io/badge/English-002147?logo=google-translate&logoColor=white)  
 
 ---
 
