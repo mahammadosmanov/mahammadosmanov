@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahammad Osmanov  
 
-💻 **Flutter Developer | Cross-Platform Apps | Firebase**  
+💻 **Flutter Developer | Building Cross-Platform Apps**  
 🚀 Passionate about building fast, scalable, and user-friendly apps.  
 
 ---
