@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Mahammad%20Osmanov&fontSize=70&fontAlignY=40&desc=Mobile%20%26%20Front-End%20Engineer&descAlignY=60&descSize=25&fontColor=white" alt="Header" width="100%"/>
+  <img src="https://rohtolos.vercel.app/rohtolos-photo.png" alt="Header" width="100%"/>
 
   <h3>👋 Hi, there! I build cross-platform experiences.</h3>
   <p>
@@ -37,9 +37,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📷 **[Scan Cam](https://github.com/mahammadosmanov/scan-cam)** | **Photo to PDF Converter.** Instantly converts photos with a clean UI and cloud storage. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| 🎮 **[Flipped: Charades](https://github.com/mahammadosmanov/flipped-charades)** | **Top 5 Ranked Party Game.** achieved top ranking on Play Store via ASO strategies. | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![ASO](https://img.shields.io/badge/-ASO-4caf50) |
-| 🤖 **[Telegram Bot Tools](https://github.com/mahammadosmanov/telegram-bot-tools)** | **Productivity Automation.** A suite of bots built to automate daily workflows. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![API](https://img.shields.io/badge/-API-FF5722) |
+| 📷 **[Scan Cam](https://rohtolos.vercel.app/)** | **Photo to PDF Converter.** Instantly converts photos with a clean UI and cloud storage. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| 🎮 **[Flipped: Charades](https://rohtolos.vercel.app/)** | **Top 5 Ranked Party Game.** achieved top ranking on Play Store via ASO strategies. | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![ASO](https://img.shields.io/badge/-ASO-4caf50) |
+| 🤖 **[Telegram Bot Tools](https://rohtolos.vercel.app/)** | **Productivity Automation.** A suite of bots built to automate daily workflows. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![API](https://img.shields.io/badge/-API-FF5722) |
 
 <br/>
 
