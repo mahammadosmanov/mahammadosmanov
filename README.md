@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://rohtolos.vercel.app/rohtolos-photo.png" alt="Header" width="100%"/>
-
   <h3>👋 Hi, there! I build cross-platform experiences.</h3>
   <p>
     <b>Flutter Developer</b> | <b>React/Next.js Enthusiast</b> | <b>Firebase Expert</b>
