@@ -35,8 +35,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📷 **[Scan Cam](https://rohtolos.vercel.app/)** | **Photo to PDF Converter.** Instantly converts photos with a clean UI and cloud storage. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| 🎮 **[Flipped: Charades](https://rohtolos.vercel.app/)** | **Top 5 Ranked Party Game.** achieved top ranking on Play Store via ASO strategies. | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![ASO](https://img.shields.io/badge/-ASO-4caf50) |
+| 📷 **[Scan Cam](https://rohtolos.vercel.app/)** | **Photo to PDF Converter.** Instantly converts photos with a clean UI and cloud storage. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| 🎮 **[Flipped: Charades](https://rohtolos.vercel.app/)** | **Top 5 Ranked Party Game.** achieved top ranking on Play Store via ASO strategies. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 | 🤖 **[Telegram Bot Tools](https://rohtolos.vercel.app/)** | **Productivity Automation.** A suite of bots built to automate daily workflows. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![API](https://img.shields.io/badge/-API-FF5722) |
 
 <br/>
