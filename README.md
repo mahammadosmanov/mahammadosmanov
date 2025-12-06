@@ -45,18 +45,6 @@
 
 <div align="center">
 
-  <h2>📊 GitHub Analytics</h2>
-  
-  <a href="https://github.com/mahammadosmanov">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mahammadosmanov&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
-  </a>
-  
-  <a href="https://github.com/mahammadosmanov">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadosmanov&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <br/><br/>
-
   <h2>🌐 Let's Connect</h2>
 
   <a href="https://rohtolos.vercel.app/">
