@@ -193,7 +193,7 @@ A collection of bots automating daily workflows — from notifications to data p
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahammadosmanov/mahammadosmanov/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahammadosmanov/mahammadosmanov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mahammadosmanov/mahammadosmanov/output/github-snake-dark.svg" />
+  <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/mahammadosmanov/mahammadosmanov/output/github-snake-dark.svg" /> -->
 </picture>
 
 </div>
