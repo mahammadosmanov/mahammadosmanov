@@ -52,7 +52,7 @@ currently:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahammadosmanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38bdf8&icon_color=7dd3fc&text_color=cbd5e1&rank_icon=github" width="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mahammadosmanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38bdf8&icon_color=7dd3fc&text_color=cbd5e1&rank_icon=github" width="100%"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadosmanov&theme=tokyonight&hide_border=true&background=020817&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&dates=475569" width="100%"/>
 
