@@ -6,9 +6,9 @@
 <!-- ═══════════════════════════ INTRO ═══════════════════════════ -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I+build+cross-platform+experiences;📱+Flutter+%26+Dart+Developer;⚛️+React+%2F+Next.js+Enthusiast;🔥+Firebase+%26+Cloud+Expert;🚀+Turning+ideas+into+products" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/><br/>
 
@@ -115,13 +115,13 @@ currently:
 <br/>
 
 <!-- ═══════════════════════════ TOP LANGS ═══════════════════════════ -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadosmanov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38bdf8&text_color=cbd5e1&langs_count=8" width="42%" />
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
